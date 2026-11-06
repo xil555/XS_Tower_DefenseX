@@ -8101,3 +8101,600 @@ Sampler Limit: 32
 [2026.11.04-10.32.31:656][240]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 64769.898438
 [2026.11.04-10.32.32:989][244]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
 [2026.11.04-10.32.32:989][244]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 64770.894531, Update Interval: 343.106171
+[2026.11.04-10.38.58:726][401]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 65155.816406
+[2026.11.04-10.38.59:726][404]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.11.04-10.38.59:726][404]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 65156.480469, Update Interval: 325.500061
+[2026.11.04-10.41.53:861][927]LogDerivedDataCache: C:/Users/letlh/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.003 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 0 files in 1 folders with total size 0 MiB.
+[2026.11.04-10.45.09:121][512]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 65524.910156
+[2026.11.04-10.45.10:122][515]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.11.04-10.45.10:122][515]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 65525.578125, Update Interval: 308.545807
+[2026.11.04-13.27.05:704][467]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 75243.742188
+[2026.11.04-13.27.06:703][470]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.11.04-13.27.06:703][470]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 75244.414062, Update Interval: 354.327209
+[2026.11.04-13.33.59:098][706]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 75660.054688
+[2026.11.04-13.34.00:098][709]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.11.04-13.34.00:099][709]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 75660.726562, Update Interval: 315.954468
+[2026.11.04-13.40.00:160][789]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 76023.820312
+[2026.11.04-13.40.01:161][792]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.11.04-13.40.01:161][793]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 76024.492188, Update Interval: 335.710327
+[2026.11.04-13.46.12:553][906]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 76399.039062
+[2026.11.04-13.46.13:553][909]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.11.04-13.46.13:553][909]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 76399.710938, Update Interval: 307.496582
+[2026.11.04-13.52.20:615][ 10]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 76769.906250
+[2026.11.04-13.52.21:616][ 13]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.11.04-13.52.21:616][ 13]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 76770.578125, Update Interval: 311.942505
+[2026.11.04-15.43.44:459][603]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 83455.171875
+[2026.11.04-15.43.45:457][605]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.11.04-15.43.45:459][606]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 83455.835938, Update Interval: 328.962677
+[2026.11.04-15.50.09:858][758]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 83843.476562
+[2026.11.04-15.50.10:857][761]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.11.04-15.50.10:857][761]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 83844.148438, Update Interval: 321.356232
+[2026.11.04-15.56.05:248][824]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 84201.562500
+[2026.11.04-15.56.06:248][827]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.11.04-15.56.06:248][827]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 84202.234375, Update Interval: 301.369659
+[2026.11.04-16.02.00:304][889]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 84559.328125
+[2026.11.04-16.02.01:303][892]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.11.04-16.02.01:303][892]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 84560.000000, Update Interval: 337.786804
+[2026.11.04-16.06.37:485][721]LogDerivedDataCache: C:/Users/letlh/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.005 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 0 files in 1 folders with total size 0 MiB.
+[2026.11.04-16.08.20:694][ 30]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 84942.609375
+[2026.11.04-16.08.21:693][ 33]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.11.04-16.08.21:693][ 33]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 84943.281250, Update Interval: 331.290009
+[2026.11.04-16.14.29:093][131]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 85312.429688
+[2026.11.04-16.14.30:092][134]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.11.04-16.14.30:092][135]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 85313.101562, Update Interval: 318.464905
+[2026.11.04-16.20.44:158][256]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 85690.234375
+[2026.11.04-16.20.45:158][259]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.11.04-16.20.45:158][259]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 85690.906250, Update Interval: 316.747345
+[2026.11.04-16.27.01:234][387]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 86070.078125
+[2026.11.04-16.27.02:234][390]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.11.04-16.27.02:235][390]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 86070.750000, Update Interval: 332.165283
+[2026.11.04-16.33.27:957][547]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 86459.296875
+[2026.11.04-16.33.28:957][550]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.11.04-16.33.28:957][551]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 86459.968750, Update Interval: 335.589478
+[2026.11.04-16.39.45:172][677]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 86839.195312
+[2026.11.04-16.39.46:172][680]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.11.04-16.39.46:172][680]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 86839.867188, Update Interval: 349.505920
+[2026.11.04-16.46.22:566][869]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 87239.460938
+[2026.11.04-16.46.23:566][872]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.11.04-16.46.23:566][873]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 87240.132812, Update Interval: 333.192535
+[2026.11.04-16.52.34:627][985]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 87614.320312
+[2026.11.04-16.52.35:627][988]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.11.04-16.52.35:627][988]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 87614.992188, Update Interval: 327.268890
+[2026.11.04-16.58.45:372][ 97]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 87987.531250
+[2026.11.04-16.58.46:372][100]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.11.04-16.58.46:374][100]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 87988.203125, Update Interval: 356.367065
+[2026.11.04-17.05.25:109][296]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 88390.140625
+[2026.11.04-17.05.26:109][299]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.11.04-17.05.26:109][299]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 88390.812500, Update Interval: 348.626984
+[2026.11.04-17.06.38:835][518]LogDerivedDataCache: C:/Users/letlh/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.004 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 0 files in 1 folders with total size 0 MiB.
+[2026.11.04-18.08.53:671][264]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 92201.000000
+[2026.11.04-18.08.54:671][267]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.11.04-18.08.54:671][267]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 92201.671875, Update Interval: 330.365295
+[2026.11.04-18.15.05:642][378]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 92575.781250
+[2026.11.04-18.15.06:643][381]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.11.04-18.15.06:645][382]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 92576.453125, Update Interval: 311.134979
+[2026.11.05-00.40.24:623][255]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 115696.929688
+[2026.11.05-00.40.26:290][259]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.11.05-00.40.26:290][259]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 115698.273438, Update Interval: 325.838806
+[2026.11.05-02.03.57:887][812]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 120711.562500
+[2026.11.05-02.03.59:326][813]LogEOSSDK: Warning: LogHttp: 000001FC3CCABA00: invalid HTTP response code received. URL: https://api.epicgames.dev/datarouter/api/v1/public/data/clients?AppID=86f32f1151354e7cb39c12f8ab2c22a3&AppVersion=1.17.0-41373641&AppEnvironment=a01927f7421a4d4995673fe30ef46945&UploadType=eteventstream&SessionID=D3815F084A332FABD4E90C8F3BEF6066, HTTP code: 0, content length: 0, actual payload size: 0
+[2026.11.05-02.03.59:326][813]LogEOSSDK: Warning: LogHttp: 000001FC3CCABA00: request failed, libcurl error: 28 (Timeout was reached)
+[2026.11.05-02.03.59:327][813]LogEOSSDK: Warning: LogHttp: 000001FC3CCABA00: libcurl info message cache 0 (Too old connection (1206 seconds idle), disconnect it)
+[2026.11.05-02.03.59:328][814]LogEOSSDK: Warning: LogHttp: 000001FC3CCABA00: libcurl info message cache 1 (Connection 37 seems to be dead)
+[2026.11.05-02.03.59:328][814]LogEOSSDK: Warning: LogHttp: 000001FC3CCABA00: libcurl info message cache 2 (Closing connection)
+[2026.11.05-02.03.59:328][814]LogEOSSDK: Warning: LogHttp: 000001FC3CCABA00: libcurl info message cache 3 (TLSv1.3 (OUT), TLS alert, close notify (256):)
+[2026.11.05-02.03.59:328][814]LogEOSSDK: Warning: LogHttp: 000001FC3CCABA00: libcurl info message cache 4 (Resolving timed out after 3631300 milliseconds)
+[2026.11.05-02.03.59:328][814]LogEOSSDK: Warning: LogHttp: 000001FC3CCABA00: libcurl info message cache 5 (Closing connection)
+[2026.11.05-02.03.59:328][814]LogEOSSDK: Warning: LogHttp: 000001FC3CCA8400: invalid HTTP response code received. URL: https://api.epicgames.dev/telemetry/data/datarouter/api/v1/public/data?SessionID=%7B449D6623-4A98-2A62-014D-8F8965099C04%7D&AppID=EOSSDK.PhaseRelease.ReleaseBuild&AppVersion=1.17.0-41373641%20-%20%2B%2BEOSSDK%2BRelease-1.17.0-CL-41373641&UserID=&AppEnvironment=Production&UploadType=sdkevents, HTTP code: 0, content length: 0, actual payload size: 0
+[2026.11.05-02.03.59:328][814]LogEOSSDK: Warning: LogHttp: 000001FC3CCA8400: request failed, libcurl error: 28 (Timeout was reached)
+[2026.11.05-02.03.59:328][814]LogEOSSDK: Warning: LogHttp: 000001FC3CCA8400: libcurl info message cache 0 (Found bundle for host: 0x1fb57880b70 [serially])
+[2026.11.05-02.03.59:328][814]LogEOSSDK: Warning: LogHttp: 000001FC3CCA8400: libcurl info message cache 1 (Connection time-out)
+[2026.11.05-02.03.59:328][814]LogEOSSDK: Warning: LogHttp: 000001FC3CCA8400: libcurl info message cache 2 (Closing connection)
+[2026.11.05-02.03.59:328][814]LogEOSSDK: Warning: LogHttp: Retry exhausted on https://api.epicgames.dev/datarouter/api/v1/public/data/clients?AppID=86f32f1151354e7cb39c12f8ab2c22a3&AppVersion=1.17.0-41373641&AppEnvironment=a01927f7421a4d4995673fe30ef46945&UploadType=eteventstream&SessionID=D3815F084A332FABD4E90C8F3BEF6066
+[2026.11.05-02.03.59:329][814]LogEOSSDK: Warning: LogEOS: Failed to connect to the backend. ServiceName=[Metrics], OperationName=[SendBackendEvent], Url=[<Redacted>]
+[2026.11.05-02.03.59:330][814]LogEOSSDK: Warning: LogHttp: Retry exhausted on https://api.epicgames.dev/telemetry/data/datarouter/api/v1/public/data?SessionID=%7B449D6623-4A98-2A62-014D-8F8965099C04%7D&AppID=EOSSDK.PhaseRelease.ReleaseBuild&AppVersion=1.17.0-41373641%20-%20%2B%2BEOSSDK%2BRelease-1.17.0-CL-41373641&UserID=&AppEnvironment=Production&UploadType=sdkevents
+[2026.11.05-02.04.00:996][819]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.11.05-02.04.00:996][819]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 120714.367188, Update Interval: 304.381836
+[2026.11.05-03.06.20:643][838]LogAudioMixer: Display: Attempt to swap audio render device to new device: '[System Default]', because: 'AudioMixerPlatformInterface. Timeout waiting for h/w.', force=1
+[2026.11.05-03.06.20:648][838]LogAudioMixer: Warning: AudioMixerPlatformInterface Timeout [3738 Seconds] waiting for h/w. InstanceID=1
+[2026.11.05-03.06.21:218][839]LogAudioMixer: Display: FMixerPlatformXAudio2::PreDeviceSwap - Starting swap to [[System Default]]
+[2026.11.05-03.06.21:218][839]LogAudioMixer: Display: FMixerPlatformXAudio2::EnqueueAsyncDeviceSwap - enqueuing async device swap
+[2026.11.05-03.06.21:220][839]LogAudioMixer: Display: FMixerPlatformXAudio2::PerformDeviceSwap - AsyncTask Start. Because=AudioMixerPlatformInterface. Timeout waiting for h/w.
+[2026.11.05-06.45.59:098][842]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 137632.843750
+[2026.11.05-06.46.01:385][844]LogEOSSDK: Warning: LogHttp: 000001FC3CCA9600: invalid HTTP response code received. URL: https://api.epicgames.dev/telemetry/data/datarouter/api/v1/public/data?SessionID=%7B449D6623-4A98-2A62-014D-8F8965099C04%7D&AppID=EOSSDK.PhaseRelease.ReleaseBuild&AppVersion=1.17.0-41373641%20-%20%2B%2BEOSSDK%2BRelease-1.17.0-CL-41373641&UserID=&AppEnvironment=Production&UploadType=sdkevents, HTTP code: 0, content length: 0, actual payload size: 0
+[2026.11.05-06.46.01:386][844]LogEOSSDK: Warning: LogHttp: 000001FC3CCA9600: request failed, libcurl error: 28 (Timeout was reached)
+[2026.11.05-06.46.01:386][844]LogEOSSDK: Warning: LogHttp: 000001FC3CCA9600: libcurl info message cache 0 (Too old connection (3739 seconds idle), disconnect it)
+[2026.11.05-06.46.01:386][844]LogEOSSDK: Warning: LogHttp: 000001FC3CCA9600: libcurl info message cache 1 (Connection 42 seems to be dead)
+[2026.11.05-06.46.01:386][844]LogEOSSDK: Warning: LogHttp: 000001FC3CCA9600: libcurl info message cache 2 (Closing connection)
+[2026.11.05-06.46.01:386][844]LogEOSSDK: Warning: LogHttp: 000001FC3CCA9600: libcurl info message cache 3 (TLSv1.3 (OUT), TLS alert, close notify (256):)
+[2026.11.05-06.46.01:386][844]LogEOSSDK: Warning: LogHttp: 000001FC3CCA9600: libcurl info message cache 4 (Too old connection (3740 seconds idle), disconnect it)
+[2026.11.05-06.46.01:386][844]LogEOSSDK: Warning: LogHttp: 000001FC3CCA9600: libcurl info message cache 5 (Connection 43 seems to be dead)
+[2026.11.05-06.46.01:386][844]LogEOSSDK: Warning: LogHttp: 000001FC3CCA9600: libcurl info message cache 6 (Closing connection)
+[2026.11.05-06.46.01:386][844]LogEOSSDK: Warning: LogHttp: 000001FC3CCA9600: libcurl info message cache 7 (TLSv1.3 (OUT), TLS alert, close notify (256):)
+[2026.11.05-06.46.01:386][844]LogEOSSDK: Warning: LogHttp: 000001FC3CCA9600: libcurl info message cache 8 (Too old connection (3740 seconds idle), disconnect it)
+[2026.11.05-06.46.01:386][844]LogEOSSDK: Warning: LogHttp: 000001FC3CCA9600: libcurl info message cache 9 (Connection 44 seems to be dead)
+[2026.11.05-06.46.01:386][844]LogEOSSDK: Warning: LogHttp: 000001FC3CCA9600: libcurl info message cache 10 (Closing connection)
+[2026.11.05-06.46.01:386][844]LogEOSSDK: Warning: LogHttp: 000001FC3CCA9600: libcurl info message cache 11 (TLSv1.3 (OUT), TLS alert, close notify (256):)
+[2026.11.05-06.46.01:386][844]LogEOSSDK: Warning: LogHttp: 000001FC3CCA9600: libcurl info message cache 12 (Hostname in DNS cache was stale, zapped)
+[2026.11.05-06.46.01:386][844]LogEOSSDK: Warning: LogHttp: 000001FC3CCA9600: libcurl info message cache 13 (Resolving timed out after 13178981 milliseconds)
+[2026.11.05-06.46.01:386][844]LogEOSSDK: Warning: LogHttp: 000001FC3CCA9600: libcurl info message cache 14 (Closing connection)
+[2026.11.05-06.46.01:386][844]LogEOSSDK: Warning: LogHttp: 000001FC3CCA7200: invalid HTTP response code received. URL: https://api.epicgames.dev/telemetry/data/datarouter/api/v1/public/data?SessionID=%7B06C52241-411D-8FED-06D8-009E86856085%7D&AppID=EOSSDK.PhaseRelease.ReleaseBuild&AppVersion=1.17.0-41373641%20-%20%2B%2BEOSSDK%2BRelease-1.17.0-CL-41373641&UserID=&AppEnvironment=Production&UploadType=sdkevents, HTTP code: 0, content length: 0, actual payload size: 0
+[2026.11.05-06.46.01:387][845]LogEOSSDK: Warning: LogHttp: 000001FC3CCA7200: request failed, libcurl error: 28 (Timeout was reached)
+[2026.11.05-06.46.01:387][845]LogEOSSDK: Warning: LogHttp: 000001FC3CCA7200: libcurl info message cache 0 (Found bundle for host: 0x1fb578813b0 [serially])
+[2026.11.05-06.46.01:387][845]LogEOSSDK: Warning: LogHttp: 000001FC3CCA7200: libcurl info message cache 1 (Hostname 'api.epicgames.dev' was found in DNS cache)
+[2026.11.05-06.46.01:387][845]LogEOSSDK: Warning: LogHttp: 000001FC3CCA7200: libcurl info message cache 2 (Connection time-out)
+[2026.11.05-06.46.01:387][845]LogEOSSDK: Warning: LogHttp: 000001FC3CCA7200: libcurl info message cache 3 (Closing connection)
+[2026.11.05-06.46.01:387][845]LogEOSSDK: Warning: LogHttp: 000001FC3CCA1800: invalid HTTP response code received. URL: https://api.epicgames.dev/datarouter/api/v1/public/data/clients?AppID=86f32f1151354e7cb39c12f8ab2c22a3&AppVersion=1.17.0-41373641&AppEnvironment=a01927f7421a4d4995673fe30ef46945&UploadType=eteventstream&SessionID=D3815F084A332FABD4E90C8F3BEF6066, HTTP code: 0, content length: 0, actual payload size: 0
+[2026.11.05-06.46.01:387][845]LogEOSSDK: Warning: LogHttp: 000001FC3CCA1800: request failed, libcurl error: 28 (Timeout was reached)
+[2026.11.05-06.46.01:387][845]LogEOSSDK: Warning: LogHttp: 000001FC3CCA1800: libcurl info message cache 0 (Found bundle for host: 0x1fb578813b0 [serially])
+[2026.11.05-06.46.01:387][845]LogEOSSDK: Warning: LogHttp: 000001FC3CCA1800: libcurl info message cache 1 (Hostname 'api.epicgames.dev' was found in DNS cache)
+[2026.11.05-06.46.01:387][845]LogEOSSDK: Warning: LogHttp: 000001FC3CCA1800: libcurl info message cache 2 (Connection time-out)
+[2026.11.05-06.46.01:387][845]LogEOSSDK: Warning: LogHttp: 000001FC3CCA1800: libcurl info message cache 3 (Closing connection)
+[2026.11.05-06.46.01:387][845]LogEOSSDK: Warning: LogHttp: 000001FC3CCA1200: invalid HTTP response code received. URL: https://api.epicgames.dev/auth/v1/oauth/token, HTTP code: 0, content length: 0, actual payload size: 0
+[2026.11.05-06.46.01:388][845]LogEOSSDK: Warning: LogHttp: 000001FC3CCA1200: request failed, libcurl error: 28 (Timeout was reached)
+[2026.11.05-06.46.01:388][845]LogEOSSDK: Warning: LogHttp: 000001FC3CCA1200: libcurl info message cache 0 (Found bundle for host: 0x1fb578813b0 [serially])
+[2026.11.05-06.46.01:388][845]LogEOSSDK: Warning: LogHttp: 000001FC3CCA1200: libcurl info message cache 1 (Connection time-out)
+[2026.11.05-06.46.01:388][845]LogEOSSDK: Warning: LogHttp: 000001FC3CCA1200: libcurl info message cache 2 (Closing connection)
+[2026.11.05-06.46.01:388][845]LogEOSSDK: Warning: LogHttp: Retry exhausted on https://api.epicgames.dev/telemetry/data/datarouter/api/v1/public/data?SessionID=%7B449D6623-4A98-2A62-014D-8F8965099C04%7D&AppID=EOSSDK.PhaseRelease.ReleaseBuild&AppVersion=1.17.0-41373641%20-%20%2B%2BEOSSDK%2BRelease-1.17.0-CL-41373641&UserID=&AppEnvironment=Production&UploadType=sdkevents
+[2026.11.05-06.46.01:388][845]LogEOSSDK: Warning: LogHttp: Retry exhausted on https://api.epicgames.dev/telemetry/data/datarouter/api/v1/public/data?SessionID=%7B06C52241-411D-8FED-06D8-009E86856085%7D&AppID=EOSSDK.PhaseRelease.ReleaseBuild&AppVersion=1.17.0-41373641%20-%20%2B%2BEOSSDK%2BRelease-1.17.0-CL-41373641&UserID=&AppEnvironment=Production&UploadType=sdkevents
+[2026.11.05-06.46.01:388][845]LogEOSSDK: Warning: LogHttp: Retry exhausted on https://api.epicgames.dev/auth/v1/oauth/token
+[2026.11.05-06.46.01:388][845]LogEOSSDK: Warning: LogEOS: Failed to connect to the backend. ServiceName=[EOSAuth], OperationName=[TokenGrant], Url=[<Redacted>]
+[2026.11.05-06.46.01:388][845]LogEOSSDK: Warning: LogHttp: Retry exhausted on https://api.epicgames.dev/datarouter/api/v1/public/data/clients?AppID=86f32f1151354e7cb39c12f8ab2c22a3&AppVersion=1.17.0-41373641&AppEnvironment=a01927f7421a4d4995673fe30ef46945&UploadType=eteventstream&SessionID=D3815F084A332FABD4E90C8F3BEF6066
+[2026.11.05-06.46.01:388][845]LogEOSSDK: Warning: LogEOS: Failed to connect to the backend. ServiceName=[Metrics], OperationName=[SendBackendEvent], Url=[<Redacted>]
+[2026.11.05-06.46.02:348][846]LogEOSSDK: Warning: LogEOSAnalytics: Unable to get the client auth token. Last result: EOS_NoConnection.
+[2026.11.05-06.46.02:357][847]LogEOSSDK: Warning: LogEOS: SDK Config Product Update Request Failed, Result Code: EOS_NoConnection, Retrying after 54.760281 seconds
+[2026.11.05-06.46.02:922][849]LogAudioMixer: Display: Ignoring device swap request, swap already requested.
+[2026.11.05-06.46.02:924][849]LogAudioMixer: Display: NOT-ALLOWING attempt to swap audio render device to new device: '[System Default]', because: 'AudioMixerPlatformInterface. Timeout waiting for h/w.', force=1
+[2026.11.05-06.46.02:925][849]LogAudioMixer: Warning: AudioMixerPlatformInterface Timeout [13182 Seconds] waiting for h/w. InstanceID=1
+[2026.11.05-06.46.03:731][851]LogAudioMixer: Display: FMixerPlatformXAudio2::PostDeviceSwap - successful Swap new Device is (NumChannels=2, SampleRate=48000, DeviceID={0.0.0.00000000}.{2714e036-947f-44d3-bdfb-2b5e68a98549}, Name=Speaker (2- Realtek(R) Audio)), Reason=AudioMixerPlatformInterface. Timeout waiting for h/w., InstanceID=1, DurationMS=13182165.75
+[2026.11.05-06.46.03:737][851]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=1
+[2026.11.05-06.46.03:737][851]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=1
+[2026.11.05-06.46.03:766][851]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=1
+[2026.11.05-06.46.03:847][851]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=1
+[2026.11.05-06.46.56:838][  9]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 137689.859375
+[2026.11.05-06.46.57:837][ 12]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.11.05-06.46.57:837][ 12]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 137690.515625, Update Interval: 329.147614
+[2026.11.05-06.53.16:571][148]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 138063.625000
+[2026.11.05-06.53.17:569][151]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.11.05-06.53.17:569][151]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 138064.281250, Update Interval: 347.297577
+[2026.11.05-07.49.43:821][828]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 141447.453125
+[2026.11.05-07.49.44:821][831]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.11.05-07.49.44:822][832]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 141448.109375, Update Interval: 319.977417
+[2026.11.05-07.55.35:228][882]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 141793.312500
+[2026.11.05-07.55.36:561][886]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.11.05-07.55.36:561][886]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 141794.296875, Update Interval: 311.175262
+[2026.11.05-09.05.44:532][699]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 145998.468750
+[2026.11.05-09.05.45:533][702]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.11.05-09.05.45:533][703]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 145999.125000, Update Interval: 323.017059
+[2026.11.05-09.11.59:947][825]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 146368.015625
+[2026.11.05-09.12.00:948][828]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.11.05-09.12.00:948][829]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 146368.671875, Update Interval: 325.963318
+[2026.11.05-09.18.23:692][976]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 146745.796875
+[2026.11.05-09.18.24:693][979]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.11.05-09.18.24:693][979]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 146746.453125, Update Interval: 351.000092
+[2026.11.05-09.24.53:747][146]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 147129.765625
+[2026.11.05-09.24.54:747][149]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.11.05-09.24.54:747][150]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 147130.421875, Update Interval: 303.594482
+[2026.11.05-09.25.46:411][304]LogDerivedDataCache: C:/Users/letlh/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.009 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 0 files in 1 folders with total size 0 MiB.
+[2026.11.05-09.30.57:468][237]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 147487.750000
+[2026.11.05-09.30.58:469][240]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.11.05-09.30.58:469][240]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 147488.406250, Update Interval: 307.260345
+[2026.11.05-09.37.02:868][333]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 147847.375000
+[2026.11.05-09.37.03:868][336]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.11.05-09.37.03:868][336]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 147848.031250, Update Interval: 357.348541
+[2026.11.05-09.43.49:902][552]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 148248.046875
+[2026.11.05-09.43.50:901][555]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.11.05-09.43.50:901][555]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 148248.703125, Update Interval: 340.645172
+[2026.11.05-09.50.04:641][676]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 148616.953125
+[2026.11.05-09.50.05:640][679]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.11.05-09.50.05:641][679]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 148617.609375, Update Interval: 351.027557
+[2026.11.05-09.56.53:715][903]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 149019.593750
+[2026.11.05-09.56.54:714][906]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.11.05-09.56.54:714][906]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 149020.250000, Update Interval: 343.192230
+[2026.11.05-10.03.18:435][ 57]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 149398.250000
+[2026.11.05-10.03.19:435][ 60]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.11.05-10.03.19:435][ 60]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 149398.906250, Update Interval: 313.110748
+[2026.11.05-11.00.06:702][400]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 152804.796875
+[2026.11.05-11.00.07:702][403]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.11.05-11.00.07:702][403]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 152805.453125, Update Interval: 332.461914
+[2026.11.05-11.06.23:109][529]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 153175.343750
+[2026.11.05-11.06.24:110][532]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.11.05-11.06.24:110][532]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 153176.000000, Update Interval: 352.746979
+[2026.11.05-11.12.57:500][712]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 153563.531250
+[2026.11.05-11.12.58:502][715]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.11.05-11.12.58:502][715]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 153564.187500, Update Interval: 310.400696
+[2026.11.05-11.19.05:561][816]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 153925.781250
+[2026.11.05-11.19.06:562][819]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.11.05-11.19.06:562][820]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 153926.437500, Update Interval: 304.427612
+[2026.11.05-12.54.20:164][ 79]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 159639.062500
+[2026.11.05-12.54.21:162][ 81]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.11.05-12.54.21:162][ 81]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 159639.718750, Update Interval: 320.583527
+[2026.11.05-12.54.25:922][ 96]LogDerivedDataCache: C:/Users/letlh/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.003 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 0 files in 1 folders with total size 0 MiB.
+[2026.11.05-13.00.36:214][206]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 160009.187500
+[2026.11.05-13.00.37:214][209]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.11.05-13.00.37:214][209]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 160009.843750, Update Interval: 318.287292
+[2026.11.05-16.35.38:327][962]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 172907.343750
+[2026.11.05-16.35.39:328][965]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.11.05-16.35.39:328][965]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 172908.000000, Update Interval: 315.745728
+[2026.11.05-16.41.40:378][ 48]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 173263.765625
+[2026.11.05-16.41.41:378][ 51]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.11.05-16.41.41:378][ 51]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 173264.421875, Update Interval: 342.835175
+[2026.11.05-16.48.14:111][229]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 173651.296875
+[2026.11.05-16.48.15:112][233]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.11.05-16.48.15:112][233]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 173651.953125, Update Interval: 317.457794
+[2026.11.05-16.54.15:516][313]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 174006.984375
+[2026.11.05-16.54.16:849][317]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.11.05-16.54.16:849][317]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 174007.968750, Update Interval: 317.034821
+[2026.11.05-17.00.12:240][383]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 174358.078125
+[2026.11.05-17.00.13:240][386]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.11.05-17.00.13:240][386]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 174358.734375, Update Interval: 359.827881
+[2026.11.05-17.37.27:628][642]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 176592.156250
+[2026.11.05-17.37.28:628][645]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.11.05-17.37.28:628][645]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 176592.812500, Update Interval: 338.599823
+[2026.11.05-17.43.39:351][757]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 176958.031250
+[2026.11.05-17.43.40:351][760]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.11.05-17.43.40:353][761]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 176958.687500, Update Interval: 339.088715
+[2026.11.05-17.49.54:082][881]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 177326.843750
+[2026.11.05-17.49.55:083][884]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.11.05-17.49.55:083][885]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 177327.500000, Update Interval: 345.352936
+[2026.11.05-17.56.26:803][ 59]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 177713.468750
+[2026.11.05-17.56.27:805][ 62]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.11.05-17.56.27:805][ 62]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 177714.125000, Update Interval: 340.980255
+[2026.11.05-18.01.03:623][890]LogDerivedDataCache: C:/Users/letlh/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.005 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 0 files in 1 folders with total size 0 MiB.
+[2026.11.05-18.02.56:545][228]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 178097.046875
+[2026.11.05-18.02.57:546][231]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.11.05-18.02.57:548][232]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 178097.703125, Update Interval: 316.577057
+[2026.11.05-18.08.45:274][274]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 178440.265625
+[2026.11.05-18.08.46:275][277]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.11.05-18.08.46:276][278]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 178440.921875, Update Interval: 307.760254
+[2026.11.05-18.14.46:007][356]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 178795.421875
+[2026.11.05-18.14.47:007][359]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.11.05-18.14.47:007][359]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 178796.078125, Update Interval: 351.179535
+[2026.11.05-18.21.22:418][545]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 179185.562500
+[2026.11.05-18.21.24:086][551]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.11.05-18.21.24:086][551]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 179186.875000, Update Interval: 336.754059
+[2026.11.05-18.27.57:500][731]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 179574.468750
+[2026.11.05-18.27.59:166][735]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.11.05-18.27.59:166][736]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 179575.781250, Update Interval: 309.569397
+[2026.11.05-18.33.54:898][802]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 179926.218750
+[2026.11.05-18.33.55:898][805]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.11.05-18.33.55:898][806]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 179926.875000, Update Interval: 352.287354
+[2026.11.05-18.40.22:970][966]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 180308.187500
+[2026.11.05-18.40.23:970][969]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.11.05-18.40.23:970][969]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 180308.843750, Update Interval: 356.141846
+[2026.11.05-18.46.58:322][150]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 180697.343750
+[2026.11.05-18.46.59:322][153]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.11.05-18.46.59:322][153]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 180698.000000, Update Interval: 322.903534
+[2026.11.05-18.53.06:447][253]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 181059.671875
+[2026.11.05-18.53.07:447][256]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.11.05-18.53.07:447][256]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 181060.328125, Update Interval: 349.187286
+[2026.11.05-18.59.34:513][417]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 181441.609375
+[2026.11.05-18.59.35:514][420]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.11.05-18.59.35:514][420]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 181442.265625, Update Interval: 305.731384
+[2026.11.05-19.01.03:621][685]LogDerivedDataCache: C:/Users/letlh/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.000 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 0 files in 1 folders with total size 0 MiB.
+[2026.11.05-19.05.14:912][438]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 181776.625000
+[2026.11.05-19.05.15:911][441]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.11.05-19.05.15:911][441]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 181777.281250, Update Interval: 315.168915
+[2026.11.05-19.11.18:643][529]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 182134.609375
+[2026.11.05-19.11.19:643][532]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.11.05-19.11.19:644][533]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 182135.265625, Update Interval: 349.864807
+[2026.11.05-19.17.46:040][691]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 182515.890625
+[2026.11.05-19.17.47:040][694]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.11.05-19.17.47:040][694]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 182516.546875, Update Interval: 314.198425
+[2026.11.05-19.23.54:094][795]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 182878.156250
+[2026.11.05-19.23.55:094][798]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.11.05-19.23.55:094][798]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 182878.812500, Update Interval: 320.647614
+[2026.11.05-19.30.01:828][898]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 183240.078125
+[2026.11.05-19.30.02:829][901]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.11.05-19.30.02:829][901]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 183240.734375, Update Interval: 313.594177
+[2026.11.05-19.36.06:885][994]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 183599.375000
+[2026.11.05-19.36.08:552][998]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.11.05-19.36.08:552][998]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 183600.687500, Update Interval: 336.741241
+[2026.11.05-19.42.15:942][100]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 183962.609375
+[2026.11.05-19.42.16:942][103]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.11.05-19.42.16:942][103]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 183963.265625, Update Interval: 356.407349
+[2026.11.05-19.49.08:336][337]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 184368.515625
+[2026.11.05-19.49.09:335][340]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.11.05-19.49.09:335][340]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 184369.171875, Update Interval: 321.814026
+[2026.11.05-20.43.56:261][879]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 187653.687500
+[2026.11.05-20.43.57:261][882]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.11.05-20.43.57:261][882]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 187654.343750, Update Interval: 321.771912
+[2026.11.05-20.50.15:320][ 16]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 188026.781250
+[2026.11.05-20.50.16:654][ 20]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.11.05-20.50.16:654][ 20]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 188027.765625, Update Interval: 322.793671
+[2026.11.05-20.52.50:283][481]LogDerivedDataCache: C:/Users/letlh/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.005 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 0 files in 1 folders with total size 0 MiB.
+[2026.11.05-20.56.14:709][ 94]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 188380.515625
+[2026.11.05-20.56.15:708][ 97]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.11.05-20.56.15:708][ 97]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 188381.171875, Update Interval: 343.990601
+[2026.11.05-21.02.54:782][294]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 188774.265625
+[2026.11.05-21.02.55:781][297]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.11.05-21.02.55:782][297]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 188774.921875, Update Interval: 336.470215
+[2026.11.05-21.09.09:527][418]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 189143.171875
+[2026.11.05-21.09.10:526][421]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.11.05-21.09.10:526][421]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 189143.828125, Update Interval: 347.178558
+[2026.11.05-21.15.56:253][638]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 189543.484375
+[2026.11.05-21.15.57:253][641]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.11.05-21.15.57:253][642]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 189544.140625, Update Interval: 336.420776
+[2026.11.05-21.22.26:980][810]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 189928.078125
+[2026.11.05-21.22.27:979][813]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.11.05-21.22.27:980][813]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 189928.734375, Update Interval: 302.376770
+[2026.11.05-21.28.10:705][841]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 190266.406250
+[2026.11.05-21.28.12:038][845]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.11.05-21.28.12:039][845]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 190267.390625, Update Interval: 322.044739
+[2026.11.05-21.34.26:088][967]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 190635.890625
+[2026.11.05-21.34.27:090][970]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.11.05-21.34.27:090][970]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 190636.546875, Update Interval: 324.026001
+[2026.11.05-21.40.45:481][105]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 191009.328125
+[2026.11.05-21.40.46:481][109]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.11.05-21.40.46:482][109]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 191009.984375, Update Interval: 301.642517
+[2026.11.05-21.46.22:527][116]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 191341.078125
+[2026.11.05-21.46.23:527][119]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.11.05-21.46.23:528][119]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 191341.734375, Update Interval: 352.600494
+[2026.11.06-00.40.47:804][372]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 201805.078125
+[2026.11.06-00.40.58:140][403]LogEOSSDK: Warning: LogHttp: 000001FC3CCA8400: invalid HTTP response code received. URL: https://api.epicgames.dev/telemetry/data/datarouter/api/v1/public/data?SessionID=%7B06C52241-411D-8FED-06D8-009E86856085%7D&AppID=EOSSDK.PhaseRelease.ReleaseBuild&AppVersion=1.17.0-41373641%20-%20%2B%2BEOSSDK%2BRelease-1.17.0-CL-41373641&UserID=&AppEnvironment=Production&UploadType=sdkevents, HTTP code: 0, content length: 0, actual payload size: 0
+[2026.11.06-00.40.58:140][404]LogEOSSDK: Warning: LogHttp: 000001FC3CCA8400: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2026.11.06-00.40.58:141][404]LogEOSSDK: Warning: LogHttp: 000001FC3CCA8400: libcurl info message cache 0 (Found bundle for host: 0x1fb57880480 [serially])
+[2026.11.06-00.40.58:141][404]LogEOSSDK: Warning: LogHttp: 000001FC3CCA8400: libcurl info message cache 1 (Hostname in DNS cache was stale, zapped)
+[2026.11.06-00.40.58:141][404]LogEOSSDK: Warning: LogHttp: 000001FC3CCA8400: libcurl info message cache 2 (Could not resolve host: api.epicgames.dev)
+[2026.11.06-00.40.58:141][404]LogEOSSDK: Warning: LogHttp: 000001FC3CCA8400: libcurl info message cache 3 (Closing connection)
+[2026.11.06-00.40.58:141][404]LogEOSSDK: Warning: LogHttp: 000001FC3CCAF000: invalid HTTP response code received. URL: https://api.epicgames.dev/telemetry/data/datarouter/api/v1/public/data?SessionID=%7B449D6623-4A98-2A62-014D-8F8965099C04%7D&AppID=EOSSDK.PhaseRelease.ReleaseBuild&AppVersion=1.17.0-41373641%20-%20%2B%2BEOSSDK%2BRelease-1.17.0-CL-41373641&UserID=&AppEnvironment=Production&UploadType=sdkevents, HTTP code: 0, content length: 0, actual payload size: 0
+[2026.11.06-00.40.58:141][404]LogEOSSDK: Warning: LogHttp: 000001FC3CCAF000: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2026.11.06-00.40.58:141][404]LogEOSSDK: Warning: LogHttp: 000001FC3CCAF000: libcurl info message cache 0 (Found bundle for host: 0x1fb57880480 [serially])
+[2026.11.06-00.40.58:142][404]LogEOSSDK: Warning: LogHttp: 000001FC3CCAF000: libcurl info message cache 1 (Re-using existing connection with host api.epicgames.dev)
+[2026.11.06-00.40.58:142][404]LogEOSSDK: Warning: LogHttp: 000001FC3CCAF000: libcurl info message cache 2 (We are completely uploaded and fine)
+[2026.11.06-00.40.58:142][404]LogEOSSDK: Warning: LogHttp: 000001FC3CCAF000: libcurl info message cache 3 (Recv failure: Connection was reset)
+[2026.11.06-00.40.58:142][404]LogEOSSDK: Warning: LogHttp: 000001FC3CCAF000: libcurl info message cache 4 (OpenSSL SSL_read: Connection was reset, errno 10054)
+[2026.11.06-00.40.58:142][404]LogEOSSDK: Warning: LogHttp: 000001FC3CCAF000: libcurl info message cache 5 (Connection died, retrying a fresh connect (retry count: 1))
+[2026.11.06-00.40.58:142][404]LogEOSSDK: Warning: LogHttp: 000001FC3CCAF000: libcurl info message cache 6 (state.rewindbeforesend = TRUE)
+[2026.11.06-00.40.58:142][404]LogEOSSDK: Warning: LogHttp: 000001FC3CCAF000: libcurl info message cache 7 (Closing connection)
+[2026.11.06-00.40.58:142][404]LogEOSSDK: Warning: LogHttp: 000001FC3CCAF000: libcurl info message cache 8 (Recv failure: Connection was reset)
+[2026.11.06-00.40.58:142][404]LogEOSSDK: Warning: LogHttp: 000001FC3CCAF000: libcurl info message cache 9 (Send failure: Connection was reset)
+[2026.11.06-00.40.58:142][404]LogEOSSDK: Warning: LogHttp: 000001FC3CCAF000: libcurl info message cache 10 (Recv failure: Connection was reset)
+[2026.11.06-00.40.58:142][404]LogEOSSDK: Warning: LogHttp: 000001FC3CCAF000: libcurl info message cache 11 (Issue another request to this URL: 'https://api.epicgames.dev/telemetry/data/datarouter/api/v1/public/data?SessionID=%7B449D6623-4A98-2A62-014D-8F8965099C04%7D&AppID=EOSSDK.PhaseRelease.ReleaseBuild&AppVersion=1.17.0-41373641%20-%20%2B%2BEOSSDK%2BRelease-1.17.0-CL-41373641&UserID=&AppEnvironment=Production&UploadType=sdkevents')
+[2026.11.06-00.40.58:142][404]LogEOSSDK: Warning: LogHttp: 000001FC3CCAF000: libcurl info message cache 12 (Found bundle for host: 0x1fb57880480 [serially])
+[2026.11.06-00.40.58:142][404]LogEOSSDK: Warning: LogHttp: 000001FC3CCAF000: libcurl info message cache 13 (Re-using existing connection with host api.epicgames.dev)
+[2026.11.06-00.40.58:142][404]LogEOSSDK: Warning: LogHttp: 000001FC3CCAF000: libcurl info message cache 14 (We are completely uploaded and fine)
+[2026.11.06-00.40.58:142][404]LogEOSSDK: Warning: LogHttp: 000001FC3CCAF000: libcurl info message cache 15 (Recv failure: Connection was reset)
+[2026.11.06-00.40.58:142][404]LogEOSSDK: Warning: LogHttp: 000001FC3CCAF000: libcurl info message cache 16 (OpenSSL SSL_read: Connection was reset, errno 10054)
+[2026.11.06-00.40.58:142][404]LogEOSSDK: Warning: LogHttp: 000001FC3CCAF000: libcurl info message cache 17 (Connection died, retrying a fresh connect (retry count: 2))
+[2026.11.06-00.40.58:142][404]LogEOSSDK: Warning: LogHttp: 000001FC3CCAF000: libcurl info message cache 18 (state.rewindbeforesend = TRUE)
+[2026.11.06-00.40.58:143][404]LogEOSSDK: Warning: LogHttp: 000001FC3CCAF000: libcurl info message cache 19 (Closing connection)
+[2026.11.06-00.40.58:143][404]LogEOSSDK: Warning: LogHttp: 000001FC3CCAF000: libcurl info message cache 20 (Recv failure: Connection was reset)
+[2026.11.06-00.40.58:143][404]LogEOSSDK: Warning: LogHttp: 000001FC3CCAF000: libcurl info message cache 21 (Send failure: Connection was reset)
+[2026.11.06-00.40.58:143][404]LogEOSSDK: Warning: LogHttp: 000001FC3CCAF000: libcurl info message cache 22 (Recv failure: Connection was reset)
+[2026.11.06-00.40.58:143][404]LogEOSSDK: Warning: LogHttp: 000001FC3CCAF000: libcurl info message cache 23 (Issue another request to this URL: 'https://api.epicgames.dev/telemetry/data/datarouter/api/v1/public/data?SessionID=%7B449D6623-4A98-2A62-014D-8F8965099C04%7D&AppID=EOSSDK.PhaseRelease.ReleaseBuild&AppVersion=1.17.0-41373641%20-%20%2B%2BEOSSDK%2BRelease-1.17.0-CL-41373641&UserID=&AppEnvironment=Production&UploadType=sdkevents')
+[2026.11.06-00.40.58:143][404]LogEOSSDK: Warning: LogHttp: 000001FC3CCAF000: libcurl info message cache 24 (Found bundle for host: 0x1fb57880480 [serially])
+[2026.11.06-00.40.58:143][404]LogEOSSDK: Warning: LogHttp: 000001FC3CCAF000: libcurl info message cache 25 (Could not resolve host: api.epicgames.dev)
+[2026.11.06-00.40.58:143][404]LogEOSSDK: Warning: LogHttp: 000001FC3CCAF000: libcurl info message cache 26 (Closing connection)
+[2026.11.06-00.40.58:471][404]LogEOSSDK: Warning: LogHttp: Retry exhausted on https://api.epicgames.dev/telemetry/data/datarouter/api/v1/public/data?SessionID=%7B449D6623-4A98-2A62-014D-8F8965099C04%7D&AppID=EOSSDK.PhaseRelease.ReleaseBuild&AppVersion=1.17.0-41373641%20-%20%2B%2BEOSSDK%2BRelease-1.17.0-CL-41373641&UserID=&AppEnvironment=Production&UploadType=sdkevents
+[2026.11.06-00.40.58:471][405]LogEOSSDK: Warning: LogHttp: Retry exhausted on https://api.epicgames.dev/telemetry/data/datarouter/api/v1/public/data?SessionID=%7B06C52241-411D-8FED-06D8-009E86856085%7D&AppID=EOSSDK.PhaseRelease.ReleaseBuild&AppVersion=1.17.0-41373641%20-%20%2B%2BEOSSDK%2BRelease-1.17.0-CL-41373641&UserID=&AppEnvironment=Production&UploadType=sdkevents
+[2026.11.06-00.41.05:141][424]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.11.06-00.41.05:141][424]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 201821.812500, Update Interval: 331.394379
+[2026.11.06-02.01.32:412][888]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 206646.984375
+[2026.11.06-02.01.33:684][888]LogEOSSDK: Warning: LogHttp: 000001FC3CCAEA00: invalid HTTP response code received. URL: https://api.epicgames.dev/datarouter/api/v1/public/data/clients?AppID=86f32f1151354e7cb39c12f8ab2c22a3&AppVersion=1.17.0-41373641&AppEnvironment=a01927f7421a4d4995673fe30ef46945&UploadType=eteventstream&SessionID=D3815F084A332FABD4E90C8F3BEF6066, HTTP code: 0, content length: 0, actual payload size: 0
+[2026.11.06-02.01.33:684][888]LogEOSSDK: Warning: LogHttp: 000001FC3CCAEA00: request failed, libcurl error: 28 (Timeout was reached)
+[2026.11.06-02.01.33:684][888]LogEOSSDK: Warning: LogHttp: 000001FC3CCAEA00: libcurl info message cache 0 (Too old connection (1083 seconds idle), disconnect it)
+[2026.11.06-02.01.33:684][888]LogEOSSDK: Warning: LogHttp: 000001FC3CCAEA00: libcurl info message cache 1 (Connection 73 seems to be dead)
+[2026.11.06-02.01.33:684][888]LogEOSSDK: Warning: LogHttp: 000001FC3CCAEA00: libcurl info message cache 2 (Closing connection)
+[2026.11.06-02.01.33:685][888]LogEOSSDK: Warning: LogHttp: 000001FC3CCAEA00: libcurl info message cache 3 (TLSv1.3 (OUT), TLS alert, close notify (256):)
+[2026.11.06-02.01.33:685][888]LogEOSSDK: Warning: LogHttp: 000001FC3CCAEA00: libcurl info message cache 4 (Connection time-out)
+[2026.11.06-02.01.33:685][888]LogEOSSDK: Warning: LogHttp: 000001FC3CCAEA00: libcurl info message cache 5 (Closing connection)
+[2026.11.06-02.01.33:685][888]LogEOSSDK: Warning: LogHttp: 000001FC3CCA2400: invalid HTTP response code received. URL: https://api.epicgames.dev/telemetry/data/datarouter/api/v1/public/data?SessionID=%7B449D6623-4A98-2A62-014D-8F8965099C04%7D&AppID=EOSSDK.PhaseRelease.ReleaseBuild&AppVersion=1.17.0-41373641%20-%20%2B%2BEOSSDK%2BRelease-1.17.0-CL-41373641&UserID=&AppEnvironment=Production&UploadType=sdkevents, HTTP code: 0, content length: 0, actual payload size: 0
+[2026.11.06-02.01.33:685][888]LogEOSSDK: Warning: LogHttp: 000001FC3CCA2400: request failed, libcurl error: 28 (Timeout was reached)
+[2026.11.06-02.01.33:685][888]LogEOSSDK: Warning: LogHttp: 000001FC3CCA2400: libcurl info message cache 0 (Found bundle for host: 0x1fb57880b10 [serially])
+[2026.11.06-02.01.33:685][888]LogEOSSDK: Warning: LogHttp: 000001FC3CCA2400: libcurl info message cache 1 (Connection time-out)
+[2026.11.06-02.01.33:685][888]LogEOSSDK: Warning: LogHttp: 000001FC3CCA2400: libcurl info message cache 2 (Closing connection)
+[2026.11.06-02.01.33:685][888]LogEOSSDK: Warning: LogHttp: Retry exhausted on https://api.epicgames.dev/telemetry/data/datarouter/api/v1/public/data?SessionID=%7B449D6623-4A98-2A62-014D-8F8965099C04%7D&AppID=EOSSDK.PhaseRelease.ReleaseBuild&AppVersion=1.17.0-41373641%20-%20%2B%2BEOSSDK%2BRelease-1.17.0-CL-41373641&UserID=&AppEnvironment=Production&UploadType=sdkevents
+[2026.11.06-02.01.33:685][889]LogEOSSDK: Warning: LogHttp: Retry exhausted on https://api.epicgames.dev/datarouter/api/v1/public/data/clients?AppID=86f32f1151354e7cb39c12f8ab2c22a3&AppVersion=1.17.0-41373641&AppEnvironment=a01927f7421a4d4995673fe30ef46945&UploadType=eteventstream&SessionID=D3815F084A332FABD4E90C8F3BEF6066
+[2026.11.06-02.01.33:686][889]LogEOSSDK: Warning: LogEOS: Failed to connect to the backend. ServiceName=[Metrics], OperationName=[SendBackendEvent], Url=[<Redacted>]
+[2026.11.06-02.01.35:357][894]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.11.06-02.01.35:357][894]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 206649.593750, Update Interval: 340.377808
+[2026.11.06-03.41.31:720][993]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 212645.796875
+[2026.11.06-08.51.32:454][994]LogEOSSDK: Warning: LogHttp: 000001FC3CCA5400: invalid HTTP response code received. URL: https://api.epicgames.dev/telemetry/data/datarouter/api/v1/public/data?SessionID=%7B449D6623-4A98-2A62-014D-8F8965099C04%7D&AppID=EOSSDK.PhaseRelease.ReleaseBuild&AppVersion=1.17.0-41373641%20-%20%2B%2BEOSSDK%2BRelease-1.17.0-CL-41373641&UserID=&AppEnvironment=Production&UploadType=sdkevents, HTTP code: 0, content length: 0, actual payload size: 0
+[2026.11.06-08.51.32:454][994]LogEOSSDK: Warning: LogHttp: 000001FC3CCA5400: request failed, libcurl error: 28 (Timeout was reached)
+[2026.11.06-08.51.32:454][994]LogEOSSDK: Warning: LogHttp: 000001FC3CCA5400: libcurl info message cache 0 (Too old connection (2300 seconds idle), disconnect it)
+[2026.11.06-08.51.32:455][994]LogEOSSDK: Warning: LogHttp: 000001FC3CCA5400: libcurl info message cache 1 (Connection 78 seems to be dead)
+[2026.11.06-08.51.32:455][994]LogEOSSDK: Warning: LogHttp: 000001FC3CCA5400: libcurl info message cache 2 (Closing connection)
+[2026.11.06-08.51.32:455][994]LogEOSSDK: Warning: LogHttp: 000001FC3CCA5400: libcurl info message cache 3 (TLSv1.3 (OUT), TLS alert, close notify (256):)
+[2026.11.06-08.51.32:455][995]LogEOSSDK: Warning: LogHttp: 000001FC3CCA5400: libcurl info message cache 4 (Too old connection (2301 seconds idle), disconnect it)
+[2026.11.06-08.51.32:455][995]LogEOSSDK: Warning: LogHttp: 000001FC3CCA5400: libcurl info message cache 5 (Connection 79 seems to be dead)
+[2026.11.06-08.51.32:455][995]LogEOSSDK: Warning: LogHttp: 000001FC3CCA5400: libcurl info message cache 6 (Closing connection)
+[2026.11.06-08.51.32:455][995]LogEOSSDK: Warning: LogHttp: 000001FC3CCA5400: libcurl info message cache 7 (TLSv1.3 (OUT), TLS alert, close notify (256):)
+[2026.11.06-08.51.32:455][995]LogEOSSDK: Warning: LogHttp: 000001FC3CCA5400: libcurl info message cache 8 (Hostname in DNS cache was stale, zapped)
+[2026.11.06-08.51.32:455][995]LogEOSSDK: Warning: LogHttp: 000001FC3CCA5400: libcurl info message cache 9 (Connection time-out)
+[2026.11.06-08.51.32:455][995]LogEOSSDK: Warning: LogHttp: 000001FC3CCA5400: libcurl info message cache 10 (Closing connection)
+[2026.11.06-08.51.32:455][995]LogEOSSDK: Warning: LogHttp: 000001FC3CCA2A00: invalid HTTP response code received. URL: https://api.epicgames.dev/telemetry/data/datarouter/api/v1/public/data?SessionID=%7B06C52241-411D-8FED-06D8-009E86856085%7D&AppID=EOSSDK.PhaseRelease.ReleaseBuild&AppVersion=1.17.0-41373641%20-%20%2B%2BEOSSDK%2BRelease-1.17.0-CL-41373641&UserID=&AppEnvironment=Production&UploadType=sdkevents, HTTP code: 0, content length: 0, actual payload size: 0
+[2026.11.06-08.51.32:455][995]LogEOSSDK: Warning: LogHttp: 000001FC3CCA2A00: request failed, libcurl error: 28 (Timeout was reached)
+[2026.11.06-08.51.32:457][995]LogEOSSDK: Warning: LogHttp: 000001FC3CCA2A00: libcurl info message cache 0 (Found bundle for host: 0x1fb57881950 [serially])
+[2026.11.06-08.51.32:457][995]LogEOSSDK: Warning: LogHttp: 000001FC3CCA2A00: libcurl info message cache 1 (Hostname 'api.epicgames.dev' was found in DNS cache)
+[2026.11.06-08.51.32:457][995]LogEOSSDK: Warning: LogHttp: 000001FC3CCA2A00: libcurl info message cache 2 (Connection time-out)
+[2026.11.06-08.51.32:457][995]LogEOSSDK: Warning: LogHttp: 000001FC3CCA2A00: libcurl info message cache 3 (Closing connection)
+[2026.11.06-08.51.32:457][995]LogEOSSDK: Warning: LogHttp: 000001FC3CCA1800: invalid HTTP response code received. URL: https://api.epicgames.dev/datarouter/api/v1/public/data/clients?AppID=86f32f1151354e7cb39c12f8ab2c22a3&AppVersion=1.17.0-41373641&AppEnvironment=a01927f7421a4d4995673fe30ef46945&UploadType=eteventstream&SessionID=D3815F084A332FABD4E90C8F3BEF6066, HTTP code: 0, content length: 0, actual payload size: 0
+[2026.11.06-08.51.32:457][995]LogEOSSDK: Warning: LogHttp: 000001FC3CCA1800: request failed, libcurl error: 28 (Timeout was reached)
+[2026.11.06-08.51.32:457][995]LogEOSSDK: Warning: LogHttp: 000001FC3CCA1800: libcurl info message cache 0 (Found bundle for host: 0x1fb57881950 [serially])
+[2026.11.06-08.51.32:457][995]LogEOSSDK: Warning: LogHttp: 000001FC3CCA1800: libcurl info message cache 1 (Connection time-out)
+[2026.11.06-08.51.32:457][995]LogEOSSDK: Warning: LogHttp: 000001FC3CCA1800: libcurl info message cache 2 (Closing connection)
+[2026.11.06-08.51.32:457][995]LogEOSSDK: Warning: LogHttp: Retry exhausted on https://api.epicgames.dev/telemetry/data/datarouter/api/v1/public/data?SessionID=%7B449D6623-4A98-2A62-014D-8F8965099C04%7D&AppID=EOSSDK.PhaseRelease.ReleaseBuild&AppVersion=1.17.0-41373641%20-%20%2B%2BEOSSDK%2BRelease-1.17.0-CL-41373641&UserID=&AppEnvironment=Production&UploadType=sdkevents
+[2026.11.06-08.51.32:457][995]LogEOSSDK: Warning: LogHttp: Retry exhausted on https://api.epicgames.dev/telemetry/data/datarouter/api/v1/public/data?SessionID=%7B06C52241-411D-8FED-06D8-009E86856085%7D&AppID=EOSSDK.PhaseRelease.ReleaseBuild&AppVersion=1.17.0-41373641%20-%20%2B%2BEOSSDK%2BRelease-1.17.0-CL-41373641&UserID=&AppEnvironment=Production&UploadType=sdkevents
+[2026.11.06-08.51.32:457][995]LogEOSSDK: Warning: LogHttp: Retry exhausted on https://api.epicgames.dev/datarouter/api/v1/public/data/clients?AppID=86f32f1151354e7cb39c12f8ab2c22a3&AppVersion=1.17.0-41373641&AppEnvironment=a01927f7421a4d4995673fe30ef46945&UploadType=eteventstream&SessionID=D3815F084A332FABD4E90C8F3BEF6066
+[2026.11.06-08.51.32:457][995]LogEOSSDK: Warning: LogEOS: Failed to connect to the backend. ServiceName=[Metrics], OperationName=[SendBackendEvent], Url=[<Redacted>]
+[2026.11.06-08.51.35:325][  3]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.11.06-08.51.35:326][  3]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 231249.078125, Update Interval: 342.089905
+[2026.11.06-08.53.05:741][275]LogDerivedDataCache: C:/Users/letlh/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.005 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 0 files in 1 folders with total size 0 MiB.
+[2026.11.06-08.58.05:736][174]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 231633.828125
+[2026.11.06-08.58.07:067][178]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.11.06-08.58.07:067][178]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 231634.812500, Update Interval: 327.144379
+[2026.11.06-09.04.06:450][256]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 231988.921875
+[2026.11.06-09.04.07:449][259]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.11.06-09.04.07:449][260]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 231989.578125, Update Interval: 355.539429
+[2026.11.06-09.10.56:841][487]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 232392.859375
+[2026.11.06-09.10.57:841][490]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.11.06-09.10.57:843][490]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 232393.515625, Update Interval: 302.743011
+[2026.11.06-09.16.53:225][556]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 232743.656250
+[2026.11.06-09.16.54:224][559]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.11.06-09.16.54:224][560]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 232744.312500, Update Interval: 342.478088
+[2026.11.06-09.23.10:282][687]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 233114.781250
+[2026.11.06-09.23.11:284][691]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.11.06-09.23.11:284][691]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 233115.437500, Update Interval: 323.326508
+[2026.11.06-09.29.33:008][835]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 233491.500000
+[2026.11.06-09.29.34:342][839]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.11.06-09.29.34:345][840]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 233492.484375, Update Interval: 323.890503
+[2026.11.06-09.30.07:085][ 82]LogUObjectHash: Compacting FUObjectHashTables data took  27.49ms
+[2026.11.06-09.30.10:765][ 82]LogSlate: Window 'Save Content' being destroyed
+[2026.11.06-09.30.10:836][ 82]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.11.06-09.30.11:022][ 82]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Blueprints/BP_Tower] ([2] browsable assets)...
+[2026.11.06-09.30.11:023][ 82]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/BP_Tower]
+[2026.11.06-09.30.11:343][ 82]LogSavePackage: Moving output files for package: /Game/Blueprints/BP_Tower
+[2026.11.06-09.30.11:345][ 82]LogSavePackage: Moving '../../../../../../Users/letlh/OneDrive - ADvTECH Ltd/Documents/GADE Year 3/New XS tower folder/XS_Tower_DefenseX/Saved/BP_TowerF74540584B2E6D99C453648334C194D7.tmp' to '../../../../../../Users/letlh/OneDrive - ADvTECH Ltd/Documents/GADE Year 3/New XS tower folder/XS_Tower_DefenseX/Content/Blueprints/BP_Tower.uasset'
+[2026.11.06-09.30.11:376][ 82]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/VFX/PostProcess/M_PP_DamageVignette] ([1] browsable assets)...
+[2026.11.06-09.30.11:376][ 82]OBJ SavePackage: Finished generating thumbnails for package [/Game/VFX/PostProcess/M_PP_DamageVignette]
+[2026.11.06-09.30.11:391][ 82]LogSavePackage: Moving output files for package: /Game/VFX/PostProcess/M_PP_DamageVignette
+[2026.11.06-09.30.11:392][ 82]LogSavePackage: Moving '../../../../../../Users/letlh/OneDrive - ADvTECH Ltd/Documents/GADE Year 3/New XS tower folder/XS_Tower_DefenseX/Saved/M_PP_DamageVignette5D04681C4CA0F50613CD4E845E92542D.tmp' to '../../../../../../Users/letlh/OneDrive - ADvTECH Ltd/Documents/GADE Year 3/New XS tower folder/XS_Tower_DefenseX/Content/VFX/PostProcess/M_PP_DamageVignette.uasset'
+[2026.11.06-09.30.11:397][ 82]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Materials/M_SandWave] ([1] browsable assets)...
+[2026.11.06-09.30.11:397][ 82]OBJ SavePackage: Finished generating thumbnails for package [/Game/Materials/M_SandWave]
+[2026.11.06-09.30.11:414][ 82]LogSavePackage: Moving output files for package: /Game/Materials/M_SandWave
+[2026.11.06-09.30.11:414][ 82]LogSavePackage: Moving '../../../../../../Users/letlh/OneDrive - ADvTECH Ltd/Documents/GADE Year 3/New XS tower folder/XS_Tower_DefenseX/Saved/M_SandWaveC63EB84646AA7BB1E1B4D4B90D5CC020.tmp' to '../../../../../../Users/letlh/OneDrive - ADvTECH Ltd/Documents/GADE Year 3/New XS tower folder/XS_Tower_DefenseX/Content/Materials/M_SandWave.uasset'
+[2026.11.06-09.30.11:422][ 82]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/VFX/Niagara/NS_HitBursrt] ([1] browsable assets)...
+[2026.11.06-09.30.11:423][ 82]OBJ SavePackage: Finished generating thumbnails for package [/Game/VFX/Niagara/NS_HitBursrt]
+[2026.11.06-09.30.11:529][ 82]LogSavePackage: Moving output files for package: /Game/VFX/Niagara/NS_HitBursrt
+[2026.11.06-09.30.11:530][ 82]LogSavePackage: Moving '../../../../../../Users/letlh/OneDrive - ADvTECH Ltd/Documents/GADE Year 3/New XS tower folder/XS_Tower_DefenseX/Saved/NS_HitBursrt886C98974AACBA3823B430BE2522F106.tmp' to '../../../../../../Users/letlh/OneDrive - ADvTECH Ltd/Documents/GADE Year 3/New XS tower folder/XS_Tower_DefenseX/Content/VFX/Niagara/NS_HitBursrt.uasset'
+[2026.11.06-09.30.11:538][ 82]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/UI/W_HUD] ([2] browsable assets)...
+[2026.11.06-09.30.11:538][ 82]OBJ SavePackage: Finished generating thumbnails for package [/Game/UI/W_HUD]
+[2026.11.06-09.30.11:538][ 82]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/W_HUD" FILE="../../../../../../Users/letlh/OneDrive - ADvTECH Ltd/Documents/GADE Year 3/New XS tower folder/XS_Tower_DefenseX/Content/UI/W_HUD.uasset" SILENT=true
+[2026.11.06-09.30.11:659][ 82]LogSavePackage: Moving output files for package: /Game/UI/W_HUD
+[2026.11.06-09.30.11:661][ 82]LogSavePackage: Moving '../../../../../../Users/letlh/OneDrive - ADvTECH Ltd/Documents/GADE Year 3/New XS tower folder/XS_Tower_DefenseX/Saved/W_HUDA49F71C84FC0A36DA4D02A9D7CEB88B0.tmp' to '../../../../../../Users/letlh/OneDrive - ADvTECH Ltd/Documents/GADE Year 3/New XS tower folder/XS_Tower_DefenseX/Content/UI/W_HUD.uasset'
+[2026.11.06-09.30.11:683][ 82]LogFileHelpers: InternalPromptForCheckoutAndSave took 846.711 ms (total: 4.87 sec)
+[2026.11.06-09.30.11:852][ 82]LogStall: Shutdown...
+[2026.11.06-09.30.11:852][ 82]LogStall: Shutdown complete.
+[2026.11.06-09.30.12:505][ 82]LogWorld: UWorld::CleanupWorld for World_45, bSessionEnded=true, bCleanupResources=true
+[2026.11.06-09.30.12:513][ 82]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.11.06-09.30.12:886][ 82]LogSlate: Window 'XS_Tower_Defense - Unreal Editor' being destroyed
+[2026.11.06-09.30.17:590][ 82]LogContentValidation: Display: Starting to validate 5 assets
+[2026.11.06-09.30.17:590][ 82]LogContentValidation: Enabled validators:
+[2026.11.06-09.30.17:590][ 82]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.11.06-09.30.17:590][ 82]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.11.06-09.30.17:590][ 82]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.11.06-09.30.17:590][ 82]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.11.06-09.30.17:590][ 82]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.11.06-09.30.17:590][ 82]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.11.06-09.30.17:595][ 82]AssetCheck: /Game/Blueprints/BP_Tower Validating asset
+[2026.11.06-09.30.17:595][ 82]AssetCheck: /Game/VFX/PostProcess/M_PP_DamageVignette Validating asset
+[2026.11.06-09.30.17:595][ 82]AssetCheck: /Game/Materials/M_SandWave Validating asset
+[2026.11.06-09.30.17:595][ 82]AssetCheck: /Game/VFX/Niagara/NS_HitBursrt Validating asset
+[2026.11.06-09.30.17:661][ 82]AssetCheck: /Game/UI/W_HUD Validating asset
+[2026.11.06-09.30.18:249][ 82]LogUObjectHash: Compacting FUObjectHashTables data took   6.66ms
+[2026.11.06-09.30.18:309][ 82]Cmd: QUIT_EDITOR
+[2026.11.06-09.30.18:309][ 82]LogCore: Engine exit requested (reason: UUnrealEdEngine::CloseEditor())
+[2026.11.06-09.30.18:314][ 82]LogSourceControl: Display: Uncontrolled Changelist persistency file saved ../../../../../../Users/letlh/OneDrive - ADvTECH Ltd/Documents/GADE Year 3/New XS tower folder/XS_Tower_DefenseX/Saved/SourceControl/UncontrolledChangelists.json
+[2026.11.06-09.30.18:341][ 83]LogCore: Engine exit requested (reason: EngineExit() was called; note: exit was already requested)
+[2026.11.06-09.30.18:347][ 83]LogStaticMesh: Abandoning remaining async distance field tasks for shutdown
+[2026.11.06-09.30.18:347][ 83]LogStaticMesh: Abandoning remaining async card representation tasks for shutdown
+[2026.11.06-09.30.18:375][ 83]LogWorld: UWorld::CleanupWorld for DesertWorld, bSessionEnded=true, bCleanupResources=true
+[2026.11.06-09.30.18:378][ 83]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.11.06-09.30.18:378][ 83]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/Levels/DesertWorld.DesertWorld
+[2026.11.06-09.30.18:440][ 83]LogTedsSettings: UTedsSettingsEditorSubsystem::Deinitialize
+[2026.11.06-09.30.18:447][ 83]LogStylusInput: Shutting down StylusInput subsystem.
+[2026.11.06-09.30.18:465][ 83]LogLevelSequenceEditor: LevelSequenceEditor subsystem deinitialized.
+[2026.11.06-09.30.18:562][ 83]LogWorld: UWorld::CleanupWorld for World_21, bSessionEnded=true, bCleanupResources=true
+[2026.11.06-09.30.18:563][ 83]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.11.06-09.30.18:568][ 83]LogWorld: UWorld::CleanupWorld for World_20, bSessionEnded=true, bCleanupResources=true
+[2026.11.06-09.30.18:569][ 83]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.11.06-09.30.18:573][ 83]LogWorld: UWorld::CleanupWorld for World_19, bSessionEnded=true, bCleanupResources=true
+[2026.11.06-09.30.18:574][ 83]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.11.06-09.30.18:578][ 83]LogWorld: UWorld::CleanupWorld for World_24, bSessionEnded=true, bCleanupResources=true
+[2026.11.06-09.30.18:580][ 83]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.11.06-09.30.18:583][ 83]LogWorld: UWorld::CleanupWorld for World_16, bSessionEnded=true, bCleanupResources=true
+[2026.11.06-09.30.18:583][ 83]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.11.06-09.30.18:589][ 83]LogWorld: UWorld::CleanupWorld for World_15, bSessionEnded=true, bCleanupResources=true
+[2026.11.06-09.30.18:589][ 83]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.11.06-09.30.18:594][ 83]LogWorld: UWorld::CleanupWorld for World_14, bSessionEnded=true, bCleanupResources=true
+[2026.11.06-09.30.18:596][ 83]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.11.06-09.30.18:601][ 83]LogWorld: UWorld::CleanupWorld for World_13, bSessionEnded=true, bCleanupResources=true
+[2026.11.06-09.30.18:601][ 83]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.11.06-09.30.18:605][ 83]LogWorld: UWorld::CleanupWorld for World_12, bSessionEnded=true, bCleanupResources=true
+[2026.11.06-09.30.18:605][ 83]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.11.06-09.30.18:609][ 83]LogWorld: UWorld::CleanupWorld for World_11, bSessionEnded=true, bCleanupResources=true
+[2026.11.06-09.30.18:610][ 83]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.11.06-09.30.18:614][ 83]LogWorld: UWorld::CleanupWorld for World_36, bSessionEnded=true, bCleanupResources=true
+[2026.11.06-09.30.18:614][ 83]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.11.06-09.30.18:619][ 83]LogWorld: UWorld::CleanupWorld for World_9, bSessionEnded=true, bCleanupResources=true
+[2026.11.06-09.30.18:619][ 83]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.11.06-09.30.18:623][ 83]LogWorld: UWorld::CleanupWorld for World_8, bSessionEnded=true, bCleanupResources=true
+[2026.11.06-09.30.18:623][ 83]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.11.06-09.30.18:628][ 83]LogWorld: UWorld::CleanupWorld for World_7, bSessionEnded=true, bCleanupResources=true
+[2026.11.06-09.30.18:628][ 83]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.11.06-09.30.18:635][ 83]LogWorld: UWorld::CleanupWorld for World_6, bSessionEnded=true, bCleanupResources=true
+[2026.11.06-09.30.18:635][ 83]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.11.06-09.30.18:640][ 83]LogWorld: UWorld::CleanupWorld for World_5, bSessionEnded=true, bCleanupResources=true
+[2026.11.06-09.30.18:640][ 83]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.11.06-09.30.18:645][ 83]LogWorld: UWorld::CleanupWorld for World_4, bSessionEnded=true, bCleanupResources=true
+[2026.11.06-09.30.18:647][ 83]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.11.06-09.30.18:652][ 83]LogWorld: UWorld::CleanupWorld for World_3, bSessionEnded=true, bCleanupResources=true
+[2026.11.06-09.30.18:653][ 83]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.11.06-09.30.18:657][ 83]LogWorld: UWorld::CleanupWorld for World_2, bSessionEnded=true, bCleanupResources=true
+[2026.11.06-09.30.18:657][ 83]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.11.06-09.30.18:661][ 83]LogWorld: UWorld::CleanupWorld for World_1, bSessionEnded=true, bCleanupResources=true
+[2026.11.06-09.30.18:662][ 83]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.11.06-09.30.18:666][ 83]LogWorld: UWorld::CleanupWorld for World_0, bSessionEnded=true, bCleanupResources=true
+[2026.11.06-09.30.19:599][ 83]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.11.06-09.30.19:613][ 83]LogWorld: UWorld::CleanupWorld for World_22, bSessionEnded=true, bCleanupResources=true
+[2026.11.06-09.30.19:614][ 83]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.11.06-09.30.19:618][ 83]LogWorld: UWorld::CleanupWorld for World_23, bSessionEnded=true, bCleanupResources=true
+[2026.11.06-09.30.19:619][ 83]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.11.06-09.30.19:637][ 83]LogRuntimeTelemetry: Recording EnginePreExit events
+[2026.11.06-09.30.19:642][ 83]LogStudioTelemetry: Ended StudioTelemetry Session
+[2026.11.06-09.30.19:662][ 83]LogAnalytics: Display: [UEEditor.Rocket.Release] AnalyticsET::EndSession
+[2026.11.06-09.30.20:136][ 83]LogAudio: Display: Beginning Audio Device Manager Shutdown (Module: AudioMixerXAudio2)...
+[2026.11.06-09.30.20:136][ 83]LogAudio: Display: Destroying 1 Remaining Audio Device(s)...
+[2026.11.06-09.30.20:136][ 83]LogAudio: Display: Audio Device unregistered from world 'DesertWorld'.
+[2026.11.06-09.30.20:139][ 83]LogAudio: Display: Shutting down audio device while 1 references to it are still alive. For more information, compile with INSTRUMENT_AUDIODEVICE_HANDLES.
+[2026.11.06-09.30.20:146][ 83]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=1, StreamState=4
+[2026.11.06-09.30.20:157][ 83]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=1, StreamState=2
+[2026.11.06-09.30.20:224][ 83]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID -1
+[2026.11.06-09.30.20:226][ 83]LogAudio: Display: Audio Device Manager Shutdown
+[2026.11.06-09.30.20:236][ 83]LogWindowsTextInputMethodSystem: Activated input method: English (South Africa) - (Keyboard).
+[2026.11.06-09.30.20:275][ 83]LogSlate: Slate User Destroyed.  User Index 0, Is Virtual User: 0
+[2026.11.06-09.30.20:276][ 83]LogExit: Preparing to exit.
+[2026.11.06-09.30.20:516][ 83]LogUObjectHash: Compacting FUObjectHashTables data took   1.79ms
+[2026.11.06-09.30.20:530][ 83]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/add_controls_for_selected_PY.add_controls_for_selected_options' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.11.06-09.30.20:531][ 83]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/add_controls_for_selected_PY.add_controls_for_selected' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.11.06-09.30.20:539][ 83]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/add_null_above_selected_PY.add_null_above_selected' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.11.06-09.30.20:541][ 83]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/align_items_PY.align_translation_rotation' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.11.06-09.30.20:541][ 83]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/align_items_PY.align_translation_all' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.11.06-09.30.20:541][ 83]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/align_items_PY.align_translation_x' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.11.06-09.30.20:541][ 83]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/align_items_PY.align_translation_y' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.11.06-09.30.20:541][ 83]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/align_items_PY.align_translation_z' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.11.06-09.30.20:541][ 83]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/align_items_PY.align_rotation' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.11.06-09.30.20:541][ 83]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/align_items_PY.align_scale' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.11.06-09.30.20:541][ 83]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/rename_items_PY.search_replace_name_dialog' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.11.06-09.30.20:541][ 83]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/rename_items_PY.search_replace_entry' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.11.06-09.30.20:541][ 83]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/rename_items_PY.add_prefix_dialog' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.11.06-09.30.20:541][ 83]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/rename_items_PY.add_prefix_entry' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.11.06-09.30.20:541][ 83]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/rename_items_PY.add_suffix_dialog' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.11.06-09.30.20:541][ 83]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/rename_items_PY.add_suffix_entry' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.11.06-09.30.20:541][ 83]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/rename_items_PY.do_rename_dialog' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.11.06-09.30.20:541][ 83]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/rename_items_PY.do_rename_entry' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.11.06-09.30.20:541][ 83]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/set_bone_reference_pose_PY.set_bone_reference_pose' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.11.06-09.30.20:542][ 83]LogPython: Display: Object '/ControlRig/Python/ControlRigWorkflows/workflow_fbik_import_ik_rig_PY.import_ik_rig_options' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.11.06-09.30.20:542][ 83]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/add_controls_for_selected_PY.ControlOutputFormat' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.11.06-09.30.21:873][ 83]LogEditorDataStorage: Deinitializing
+[2026.11.06-09.30.22:974][ 83]LogDemo: Cleaned up 0 splitscreen connections, owner deletion: enabled
+[2026.11.06-09.30.23:830][ 83]LogExit: Editor shut down
+[2026.11.06-09.30.23:932][ 83]LogExit: Transaction tracking system shut down
+[2026.11.06-09.30.27:645][ 83]LogExit: Object subsystem successfully closed.
+[2026.11.06-09.30.27:683][ 83]LogShaderCompilers: Display: Shaders left to compile 0
+[2026.11.06-09.30.29:046][ 83]LogMemoryProfiler: Shutdown
+[2026.11.06-09.30.29:047][ 83]LogNetworkingProfiler: Shutdown
+[2026.11.06-09.30.29:047][ 83]LoadingProfiler: Shutdown
+[2026.11.06-09.30.29:047][ 83]LogTimingProfiler: Shutdown
+[2026.11.06-09.30.29:061][ 83]LogChaosVDEditor: [FChaosVDExtensionsManager::UnRegisterExtension] UnRegistering CVD Extension [FChaosVDGenericDebugDrawExtension] ...
+[2026.11.06-09.30.29:062][ 83]LogChaosVDEditor: [FChaosVDExtensionsManager::UnRegisterExtension] UnRegistering CVD Extension [FChaosVDAccelerationStructuresExtension] ...
+[2026.11.06-09.30.31:148][ 83]LogChaosDD: Chaos Debug Draw Shutdown
+[2026.11.06-09.30.31:205][ 83]LogHttp: Warning: [FHttpManager::Shutdown] Unbinding delegates for 1 outstanding Http Requests:
+[2026.11.06-09.30.31:205][ 83]LogHttp: Warning: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B1E240CA5-4B05-8C3B-C6D5-AABBA7735F38%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.6.1-44394996%2B%2B%2BUE5%2BRelease-5.6&UserID=0b39edf942c46dee43c680b03a267f3c%7C9d374f8d9ff549d08c7963af6a3f443a%7C91f8f045-cc3b-4bdd-ab1c-93ef4cecdf74&AppEnvironment=datacollector-binary&UploadType=eteventstream] refs=[2] status=Processing
+[2026.11.06-09.30.31:865][ 83]LogEOSShared: FEOSSDKManager::Shutdown EOS_Shutdown Result=[EOS_Success]
+[2026.11.06-09.30.31:885][ 83]LogNFORDenoise: NFORDenoise function shutting down
+[2026.11.06-09.30.31:888][ 83]RenderDocPlugin: plugin has been unloaded.
+[2026.11.06-09.30.31:937][ 83]LogIris: FNetObjectFactoryRegistry::UnregisterFactory is unregistering factory: None name: NetActorFactory id: 0
+[2026.11.06-09.30.31:937][ 83]LogIris: FNetObjectFactoryRegistry::UnregisterFactory is unregistering factory: None name: NetSubObjectFactory id: 1
+[2026.11.06-09.30.31:939][ 83]LogPakFile: Destroying PakPlatformFile
